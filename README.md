@@ -1,10 +1,16 @@
 # TEST_RESULTS
 Osnovne operacije su uredu(+,*,/,-)
+
 Redosled operacija je uredu
+
 Kod deljenja sa nulom javra gresku 
+
 Uspesno racunanje u ekstremnim uslovima primer:(999999999*999999999)
+
 Kada pokusam da podelim 1/0 u terminalu ne izbacuje nikakvu gresku
+
 Kada ukucam dva operatora za redom prijavljuje gresku 
+
 Ako umesto operatora mnozenja(*) pomesamo sa (x) dobijam gresku
 ..............................................................................
 JEDINICNI TEST
